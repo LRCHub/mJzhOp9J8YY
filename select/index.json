@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Shower of light",
+  "base_artist": "イルミネーションスターズ",
+  "createdAt": "2026-01-10T13:22:07.369955Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shower of light",
+      "artist": "イルミネーションスターズ",
+      "has_synced": false,
+      "path": "select/01_Shower_of_light_イルミネーションスターズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shower of light",
+      "artist": "illumination STARS",
+      "has_synced": false,
+      "path": "select/02_Shower_of_light_illumination_STARS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shower of light",
+      "artist": "イルミネーションスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_Shower_of_light_イルミネーションスターズ.txt"
+    }
+  ]
+}
